@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hello
+- 🙋‍♂️ I'm Munashe Mukweya.
+- 🔭 I’m currently working on a video game.
+- 🌱 I’m currently learning .NET development.
+- 📫 How to reach me: [Email](munashemukweya2022@gmail.com)
 
 <!--
 **Langton49/Langton49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
