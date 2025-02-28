@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Munashe Mukweya!</h1>
-<p><h3>🔨Something I am working on</h3></p>
+<p><strong>🔨Working on:</strong> Currently working on a hackathon project.
+<strong>🧠Learning:</strong> I am currently learning .NET development.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" /></a>
