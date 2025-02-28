@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Munashe Mukweya!</h1>
-<p><strong>  💡Fun Fact:</strong> 1x Hackathon winner.<br><br> 
+<p><strong>&nbsp;&nbsp;💡Fun Fact:</strong> 1x Hackathon winner.<br><br> 
 <strong>&nbsp;&nbsp;🔨Working on:</strong> Currently working on a hackathon project.<br><br>
 <strong>&nbsp;&nbsp;🧠Learning:</strong> I am currently learning .NET development.<br><br>
 <strong>&nbsp;&nbsp;📚Favorite Subject:</strong> Mathematics.<br><br>  
