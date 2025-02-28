@@ -39,6 +39,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/munashe-mukweya" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="35" height="35" /></a>
-<a target="_blank" href="mailto:munashemukweya2022@gmail.com" style="display: inline-block;"><img src="https://github.com/Langton49/Langton49/blob/main/email-14-svgrepo-com.svg" alt="email" width="35" height="35" /></a></p>p
+<a target="_blank" href="mailto:munashemukweya2022@gmail.com" style="display: inline-block;"><img src="https://github.com/Langton49/Langton49/blob/main/email-14-svgrepo-com.svg" alt="email" width="35" height="35" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Langton49&show_icons=true&locale=en" alt="Langton49" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Langton49&" alt="Langton49" /></p>
