@@ -1,27 +1,3 @@
-<style>
-  @keyframes pulse {
-  0% {
-    transform: scale(1);
-    opacity: 1;
-  }
-  50% {
-    transform: scale(1.1);
-    opacity: 0.7;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
-
-.logo {
-  width: 150px; /* Adjust size as needed */
-  height: auto;
-  animation: pulse 1.5s infinite ease-in-out;
-}
-
-</style>
-
 <h1>Hi 👋, I'm Munashe Mukweya!</h1>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;💡Fun Fact:</strong> 1x Hackathon winner.<br><br> 
 <strong>&nbsp;&nbsp;&nbsp;&nbsp;🔨Working on:</strong> Currently working on a hackathon project.<br><br>
