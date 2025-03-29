@@ -4,7 +4,7 @@
 *Full-Stack Developer | Game Developer | Problem Solver | Hackathon Winner*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2291d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-l-mukweya)  
-[![Email](https://img.shields.io/badge/Email-2291d6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munashemukweya2022@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-2291d6?style=for-the-badge&logo=chrome&logoColor=white)](mailto:munashemukweya2022@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-2291d6?style=for-the-badge&logo=chrome&logoColor=white)](https://munashemukweya.com)
 
 ![Code GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
