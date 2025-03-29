@@ -11,7 +11,7 @@
 
 ## 👋 About Me  
 💡 **Fun Fact:** 1x Hackathon Winner & lifelong learner  
-🔨 **Currently Building:** A hackathon project (stay tuned!)  
+🔨 **Currently Building:** A personal project (stay tuned!)  
 🧠 **Learning:** .NET development & advanced cloud architecture  
 📚 **Favorite Subject:** Mathematics (logic & problem-solving)  
 
