@@ -66,7 +66,7 @@
 🤝 **Open to:** Collaborations, hackathons, and mentorship  
 
 📫 **Reach out:** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2291d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-mukweya) 
-[![Email](https://img.shields.io/badge/Email-2291d6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munashemukweya2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2291d6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashe-l-mukweya) 
+[![Email](https://img.shields.io/badge/Email-2291d6?style=for-the-badge&logo=chrome&logoColor=white)](mailto:munashemukweya2022@gmail.com)
 
 </div>
