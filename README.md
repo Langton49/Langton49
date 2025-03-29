@@ -10,6 +10,7 @@
 ![Code GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ## 👋 About Me  
+I am a sophomore currently pursuing degrees in Computer Science and Cybersecurity, with a passion for software development that began when I was 16. Since then, I have continuously developed my skills, exploring different fields, including cybersecurity, game development, and mobile development. My love of technology drives me to learn and improve every day, making the journey feel less like work and more like a passion. I am currently seeking an internship opportunity where I can apply my skills, contribute to meaningful projects, and grow as a developer in a professional setting.
 💡 **Fun Fact:** 1x Hackathon Winner & lifelong learner  
 🔨 **Currently Building:** A personal project (stay tuned!)  
 🧠 **Learning:** .NET development & advanced cloud architecture  
