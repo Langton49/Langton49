@@ -3,7 +3,7 @@
 # 🚀 Munashe Langton Mukweya  
 *Full-Stack Developer | Game Developer | Problem Solver | Hackathon Winner*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/munashe-mukweya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/munashe-l-mukweya)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:munashemukweya2022@gmail.com)  
 
 ![Code GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
