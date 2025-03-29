@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Munashe Langton Mukweya  
-*Full-Stack Developer | Hackathon Winner | .NET & Web Enthusiast*  
+*Full-Stack Developer | Game Developer | Problem Solver | Hackathon Winner*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/munashe-mukweya)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:munashemukweya2022@gmail.com)  
