@@ -1,6 +1,6 @@
-<div background="black" align="center">
+<div align="center">
 
-# 🚀 Munashe Langton Mukweya  
+# 👋Hi, I'm Munashe Langton Mukweya  
 *Full-Stack Developer | Game Developer | Problem Solver | Hackathon Winner*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/munashe-l-mukweya)  
