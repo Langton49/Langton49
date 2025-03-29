@@ -1,4 +1,4 @@
-<div background-color="black" align="center">
+<div background="black" align="center">
 
 # 🚀 Munashe Langton Mukweya  
 *Full-Stack Developer | Game Developer | Problem Solver | Hackathon Winner*
