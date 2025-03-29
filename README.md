@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/munashe-l-mukweya)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:munashemukweya2022@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-2291d6?style=for-the-badge&logo=vercel&logoColor=white)](https://munashemukweya.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2291d6?style=for-the-badge&logo=chrome&logoColor=white)](https://munashemukweya.com)
 
 ![Code GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
